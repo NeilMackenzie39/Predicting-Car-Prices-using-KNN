@@ -5,7 +5,7 @@ K-Nearest Neighbours algorithm used to predict car prices
 This repository contains a jupyter notebook of the code to execute this project as well as the .data file requied to run the notebook. 
 
 ## Project Information
-This guided project was completed at the end of a 'Machine Learning Fundamentals' [course](https://www.dataquest.io/course/machine-learning-fundamentals/) on Dataquest.io. A 'starter' code was provided in the project guideline to become familiar with the dataset. The sequence of using a univariate model and then moving on to univariate models with a) 5 neighbours and then b) 1-25 neigbours was suggested by in the guideline, but the implementation of the KNN algorithm, execution of the code and analysis of the results are my own work. The cleaning of results to approach a more presentable format is also my own work.
+This guided project was completed at the end of a 'Machine Learning Fundamentals' [course](https://www.dataquest.io/course/machine-learning-fundamentals/) on Dataquest.io. A 'starter' code was provided in the project guideline to become familiar with the dataset. The sequence of using a univariate model and then moving on to univariate models with a) 5 neighbours and then b) 1-25 neigbours was suggested in the guideline, but the implementation of the KNN algorithm, execution of the code and analysis of the results are my own work. The cleaning of results to approach a more presentable format is also my own work.
 
 ## Dataset Contents
 A description of the columns in the dataset is given below. The columns in the .data file actually have different names, but they are renamed according to the table below in the code.
